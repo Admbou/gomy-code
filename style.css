@@ -1,0 +1,74 @@
+```html
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Delicious Menu</title>
+
+    <style>
+        body {
+            background-color: #3498db;
+            color: white;
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+
+        h1 {
+            text-align: center;
+        }
+
+        a {
+            color: yellow;
+        }
+
+        img {
+            border-radius: 10px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <h2>Lovely guests, hello and welcome to our restaurant</h2>
+
+    <h1>Delicious Menu</h1>
+
+    <h2>Openings</h2>
+    <ul>
+        <li>
+            <strong>Algerian Salad</strong>
+            <p>Fresh vegetables added with sauce.</p>
+        </li>
+    </ul>
+
+    <h2>Main Plate of the Day</h2>
+    <ul>
+        <li>
+            <strong>Chakchouka</strong>
+            <p>Hot vegetables cooked with eggs and eaten with bread.</p>
+
+            <img src="Chakchouka.png"
+                 alt="A delicious plate of Algerian Chakchouka"
+                 width="400">
+        </li>
+    </ul>
+
+    <h2>Desserts</h2>
+    <ul>
+        <li>
+            <strong>Ice Cream Flavours:</strong>
+            <p>Chocolate, Strawberry, Mango, Vanilla, Banana, Mixed, Special Ice Cream.</p>
+        </li>
+    </ul>
+
+    <p>
+        <a href="contact.html">
+            If you are facing any problem, please feel free to contact us by clicking this link.
+        </a>
+    </p>
+
+</body>
+</html>
+```
